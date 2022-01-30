@@ -1,7 +1,7 @@
 # Project_Reverb
 
 [![made-with-python](http://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![built-with-love](http://forthebadge.com/images/badges/built-with-love.svg)](https://gitHub.com/t0thkr1s/)
+[![built-with-love](http://forthebadge.com/images/badges/built-with-love.svg)](https://gitHub.com/hackgodybj/)
 
 Standalone script written in Python 3 for generating Reverse Shell one liner snippets and handles the communication between target and client using custom `Netcat` binaries.
 It automates the boring stuff like URL encoding the command and setting up a listener.
